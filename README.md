@@ -1,3 +1,10 @@
+# General
+
+- add test
+- run `yarn build`
+- cp dist/browser files to test
+- make sure polyfill.js and main.js files points to right place
+
 # HcAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
